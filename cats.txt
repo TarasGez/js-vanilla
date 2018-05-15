@@ -1,0 +1,15 @@
+{
+    'name' : 'BigMurka',
+    'color' : 'black',
+    'weight' : 3
+},
+{
+    'name' : 'Viskas',
+    'color': 'grey',
+    'weight' : 2
+},
+{
+    'name' : 'Snejok',
+    'color': 'white',
+    'weight' : 5
+};

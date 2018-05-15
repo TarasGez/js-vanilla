@@ -1,0 +1,29 @@
+var jsonData = [
+    {
+    "firstName": "Иван",
+    "lastName": "Иванов",
+    "address": {
+        "street": "Московское ш., 101, кв.101",
+        "city": "Ленинград",
+        "postalCode": 101101
+    },
+    "phoneNumbers": [
+        "812 123-1234",
+        "916 123-4567"
+    ]
+ },
+
+ {
+    "firstName": "Сергей",
+    "lastName": "Петров",
+    "address": {
+        "street": "Московское ш., 101, кв.102",
+        "city": "Питер",
+        "postalCode": 101121
+    },
+    "phoneNumbers": [
+        "812 345-1234",
+        "916 453-4567"
+    ]
+ }
+]
